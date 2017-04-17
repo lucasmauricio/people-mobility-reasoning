@@ -12,10 +12,10 @@ Academic Term: 1st period/2017
 
 Authors:
 * Bruno Azevedo
-* Caio R. N. Maia
+* Caio R. N. Maia (@caiorodrigo25)
 * Denise Maia
-* Guilherme Noronha
-* João Kleiber Ésper Jr.
+* Guilherme Noronha (@gnoronhar)
+* João Kleiber Ésper Jr. (@jkjunior)
 * Jonatas Bomtempo
 * Lucas M. C. e Martins
 * Marcos Yan
